@@ -4,11 +4,11 @@ B.Tech in Computer Science and Engineering from Calcutta Institute of Engineerin
 
 Contact with me :
 
-
 Front End Development:
-
 
 Back End Development:
 
+Other Skill:
 
+Communication Language: Hindi, English and Bengali 
 
