@@ -2,13 +2,15 @@ I am PRINCE KUMAR SHARMA
 
 B.Tech in Computer Science and Engineering from Calcutta Institute of Engineering and Management
 
-Contact with me :
+Contact with me :-
 
-Front End Development:
+Front End Development :-
 
-Back End Development:
+Back End Development :-
 
-Other Skill:
+Other Skills :-
 
-Communication Language: Hindi, English and Bengali 
+Communication Language :- Hindi, English and Bengali 
+
+
 
