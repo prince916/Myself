@@ -7,6 +7,9 @@ Contact with me :-
   LinkedIn:
   GitHub:
   Facebook:
+  Twitter:
+  Instagram:
+  
 Front End Development :-
 
 Back End Development :-
