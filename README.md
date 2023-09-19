@@ -9,6 +9,7 @@ Contact with me :-
   Facebook:
   Twitter:
   Instagram:
+  Telegram:
   
 Front End Development :-
 
