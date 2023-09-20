@@ -4,7 +4,7 @@ B.Tech in Computer Science and Engineering from Calcutta Institute of Engineerin
 
 Contact with me :-
   Email: prince.sharma.ciem.cse@gmail.com
-  LinkedIn:
+  LinkedIn: https://www.linkedin.com/in/prince-kumar-sharma-873549202/
   GitHub:
   Facebook:
   Twitter:
