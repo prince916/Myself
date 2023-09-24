@@ -17,7 +17,7 @@ Back End Development :-
 
 Other Skills :-
 
-Communication Language :- Hindi, English and Bengali and some others as well
+Communication Language :- Hindi, English, Bengali, etc.
 
 
 
