@@ -18,7 +18,10 @@ Front End Development :-
 
 Back End Development :-
 
+
 Other Skills :-
+
+Hobby :-
 
 Communication Language :- Hindi, English, Bengali, etc.
 
