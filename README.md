@@ -12,6 +12,7 @@ Contact with me :-
   Twitter:
   Instagram:
   Telegram:
+  Thread:
   
 Front End Development :-
 
