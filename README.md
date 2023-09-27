@@ -22,6 +22,8 @@ Back End Development :-
 Other Skills :-
 
 Hobby :-
+  Games:
+    Taekwondo
 
 Communication Language :- Hindi, English, Bengali, etc.
 
