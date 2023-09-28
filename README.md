@@ -23,7 +23,10 @@ Other Skills :-
 
 Hobby :-
   Games:
-    Taekwondo
+    1. Taekwondo
+    2. Cricket
+    3. Badminton
+    4. Chess
 
 Communication Language :- Hindi, English, Bengali, etc.
 
