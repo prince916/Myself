@@ -29,7 +29,8 @@ Hobby :-
       3. Badminton
       4. Chess
       5. Vollyball
-    Indoor:
+    
+    Indoor Games:
       
       
 
