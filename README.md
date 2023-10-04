@@ -15,6 +15,7 @@ Contact with me :-
   Thread:
   
 Front End Development :-
+  HTML, CSS, JAVASCRIPT
 
 Back End Development :-
 
