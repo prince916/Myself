@@ -13,6 +13,7 @@ Contact with me :-
   Instagram:
   Telegram:
   Thread:
+  Phone: 62892449XX
   
 Front End Development :-
   HTML, CSS, JAVASCRIPT
