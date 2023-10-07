@@ -19,6 +19,7 @@ Front End Development :-
   HTML, CSS, JAVASCRIPT
 
 Back End Development :-
+  NodeJS, NextJS, MongoDB
 
 
 Other Skills :-
