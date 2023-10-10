@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React-Native, Backend-End tools**
 
-- 💬 Ask me about **React, Next.js, Node.js, Express.js**
+- 💬 Ask me about **C++, JavaScript, React, Next.js, Node.js, Express.js**
 
 - 📫 How to reach me **prince.sharma.ciem.cse@gmail.com**
 
