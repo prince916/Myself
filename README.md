@@ -33,10 +33,6 @@ Hobby :-
       4. Chess
       5. Vollyball
     
-    Indoor Games:
-      
-      
-
 Communication Language :- Hindi, English, Bengali, etc.
 
 
