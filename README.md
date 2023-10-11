@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/fcd090c9c08f460ac582d371fdd3f55ebeeb9dee107b68b42786a4b4cc0a1fd0/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966)
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/software-developer-working-at-office-9170966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince916&label=Profile%20views&color=0e75b6&style=flat&width=200" alt="prince" /> </p>
 
