@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnX6MMgUN6A3rticfvDZ1yBda-LoHzt6KhFUlUNPGe&s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince916&label=Profile%20views&color=0e75b6&style=flat&width=200" alt="prince" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="prince" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prince_kumar_19" target="blank"><img src="https://img.shields.io/twitter/follow/prince_kumar_19?logo=twitter&style=for-the-badge" alt="prince_kumar_19" /></a> </p>
 
