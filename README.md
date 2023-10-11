@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F67656229%2F231989130-452bdc96-4fb3-4129-91d6-1c2fb1e8ce90.gif&tbnid=TH0qAZuI5rkaTM&vet=12ahUKEwjAuNDgy-6BAxWp0jgGHYLnA68QMygRegQIARB4..i&imgrefurl=https%3A%2F%2Fgithub.com%2FIsmailAlamKhan&docid=FWTBBVWqIraifM&w=1600&h=480&q=animated%20github%20banner%20image&ved=2ahUKEwjAuNDgy-6BAxWp0jgGHYLnA68QMygRegQIARB4)](https://rishavchanda.io)
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F67656229%2F231989130-452bdc96-4fb3-4129-91d6-1c2fb1e8ce90.gif&tbnid=TH0qAZuI5rkaTM&vet=12ahUKEwjAuNDgy-6BAxWp0jgGHYLnA68QMygRegQIARB4..i&imgrefurl=https%3A%2F%2Fgithub.com%2FIsmailAlamKhan&docid=FWTBBVWqIraifM&w=1600&h=480&q=animated%20github%20banner%20image&ved=2ahUKEwjAuNDgy-6BAxWp0jgGHYLnA68QMygRegQIARB4" alt="bannerimg">
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
