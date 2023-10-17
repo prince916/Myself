@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/prince_kumar_19" target="blank"><img src="https://img.shields.io/twitter/follow/prince_kumar_19?logo=twitter&style=for-the-badge" alt="prince_kumar_19" /></a> </p>
 
-- 🔭 I’m currently working on **Bee's Mart Shopping Website.**
+- 🔭 I’m currently working on **Bee's Mart Shopping Website**
 
 - 🌱 I’m currently learning **React-Native, Backend-End tools**
 
-- 💬 Ask me about **React, Next.js, Node.js, Express.js**
+- 💬 Ask me about **React.js, Next.js, Node.js, Express.js**
 
 - 📫 How to reach me **prince.sharma.ciem.cse@gmail.com**
 
