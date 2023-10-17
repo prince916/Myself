@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **prince.sharma.ciem.cse@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://dev.to/prince916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prince916" height="30" width="40" /></a>
 <a href="https://twitter.com/prince_kumar_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prince_kumar_19" height="30" width="40" /></a>
