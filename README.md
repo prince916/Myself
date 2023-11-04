@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Bee's Mart, a Shopping Website**
 
-- 🌱 I’m currently learning **React-Native, Backend-End tools**
+- 🌱 I’m currently learning **React-Native, Backend-End Tools**
 
 - 💬 Ask me about **C++, React.js, Next.js, Node.js, Express.js**
 
