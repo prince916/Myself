@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C++, React.js, Next.js, Node.js, Express.js**
 
-- 📫 How to reach me **prince.sharma.ciem.cse@gmail.com**
+- 📫 How to reach me **princekumarsharma117@gmail.com**
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
